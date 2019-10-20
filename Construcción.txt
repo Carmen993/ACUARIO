@@ -1,0 +1,13 @@
+Lista de materiales
+------------------
+- ladrillos
+- arena
+- cal
+- hierro
+- cemento
+- malla de fibra
+- alambre
+- pastina
+- latex
+- piedra
+- pegamento
